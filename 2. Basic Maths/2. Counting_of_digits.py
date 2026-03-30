@@ -1,7 +1,7 @@
 N=int(input())
 count=0
 while N>0:
-    last_digit=N%10
+    # last_digit=N%10
     count+=1
     N//=10
 
