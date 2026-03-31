@@ -9,4 +9,4 @@ if a==0:print(b)
 else:print(a)
 
 
-#TC is log phi, because a,b keeps fluctuating
+#TC is log phi, because a,b keeps fluctuating...
